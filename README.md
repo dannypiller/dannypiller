@@ -1,10 +1,6 @@
+Major: Computer Science
+School: Iowa State University
+Year: Junior
 
-.__           .__  .__        ._.    My name is **Danny Piller**, and I'm currently a **third year**
-|  |__   ____ |  | |  |   ____| |    **Computer Science** major at **Iowa state. **
-|  |  \_/ __ \|  | |  |  /  _ \ |
-|   Y  \  ___/|  |_|  |_(  <_> )|
-|___|  /\___  >____/____/\____/__
-     \/     \/                 \/
-
-
-
+Interests: Web Development and Software Development
+Previous Experience: IT Internship, IWCC, 2023
